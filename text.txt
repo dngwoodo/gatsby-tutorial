@@ -1,0 +1,2759 @@
+    1  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    2  ls
+    3  ls
+    4  cd downloads
+    5  ls
+    6  cd ..
+    7  ls
+    8  brew install --cask rectangle
+    9  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   10  ls
+   11  brew install --cask rectangle
+   12  cd desktop
+   13  ls
+   14  cd test
+   15  code .
+   16  cd private\ work
+   17  code .
+   18  cd desktop
+   19  ls
+   20  cd private\ work
+   21  code .
+   22  code .
+   23  code .
+   24  code 
+   25  code .
+   26  git
+   27  git hist
+   28  ls
+   29  vi ~/.aws/credentials
+   30  sudo vi ~/.aws/credentials
+   31  chmod 777 ~/.aws/credentials
+   32  chmod 777 ~/.aws
+   33  mkdir ~/.aws/credentials
+   34  mkdir ~/.aws
+   35  cd ~/.aws
+   36  ls
+   37  touch credentials
+   38  ls
+   39  chmod 777 credentials
+   40  ls -al
+   41  vi credentials
+   42  ls
+   43  source credentials
+   44  source ./credentials
+   45  ls
+   46  cat credentials
+   47  cd ~/desktop
+   48  cd work
+   49  git clone git clone -b dev https://github.com/inflearn/ant-man
+   50  git clone -b dev https://github.com/inflearn/ant-man
+   51  sudo curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
+   52  nvm ls
+   53  nvm
+   54  vi ~/.bash_profile
+   55  source ~/.bash_profile
+   56  nvm ls
+   57  nvm --list
+   58  mvn man
+   59  nvm man
+   60  nvm --help
+   61  nvm --list --lts
+   62  nvm list
+   63  nvm list --lts
+   64  nvm --version
+   65  git hist
+   66  ls
+   67  cd test
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd test
+   72  ls
+   73  cd private\ work
+   74  ls
+   75  cd test
+   76  ls -als
+   77  ls -al
+   78  git hist
+   79  cd ..
+   80  ls
+   81  git clone git@github.com:gothinkster/react-redux-realworld-example-app.git
+   82  cd ..
+   83  ls
+   84  cd private\ work
+   85  ls
+   86  git clone git@github.com:gothinkster/react-redux-realworld-example-app.git
+   87  git clone https://github.com/gothinkster/react-redux-realworld-example-app.git
+   88  ls
+   89  cd react-redux-realworld-example-app
+   90  code .
+   91  npm i
+   92  nvm install --lts 14.18.1
+   93  npm i
+   94  npm run dev
+   95  npm run start
+   96  npm outdated
+   97  npm
+   98  node --version
+   99  node
+  100  nvm
+  101  nvm --list
+  102  nvm list
+  103  nvm use 14.18.1
+  104  node
+  105  npm outdated
+  106  docker
+  107  docker run --rm -d -p 6379:6379 redis
+  108  docker ps
+  109  cat ~/.aws/credentails
+  110  cat ~/.aws/credentials
+  111  ls
+  112  cd desktop
+  113  ls
+  114  cd work
+  115  ls
+  116  mkdir inflab
+  117  cd inflab
+  118  git clone git@github.com:inflearn/ant-man.git
+  119  \n\nPlease make sure you have the correct access rights\nand the repository exists.
+  120  git clone https://github.com/inflearn/ant-man.git
+  121  git config --system --unset credential.helper
+  122  sudo git config --system --unset credential.helper
+  123  git config --global
+  124  git config --global -e
+  125  git config --glboal -e
+  126  git config --global -e
+  127  git clone https://github.com/inflearn/ant-man.git
+  128  ls
+  129  code .
+  130  ls
+  131  cd ant-man
+  132  code .
+  133  nvm --version
+  134  nvm --list
+  135  nvm list
+  136  nvm install lts/erbium
+  137  node --version
+  138  yarn
+  139  npm install -g yarn
+  140  yarn
+  141  yarn dev
+  142  xcode-select --install
+  143  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  144  nvm install lts/fermium
+  145  docker ps
+  146  nvm use lts/erbium
+  147  yarn dev
+  148  git hist
+  149  code .
+  150  git switch -c task/AM-2471-molly-onboarding
+  151  git add .
+  152  git commit
+  153  git hist
+  154  git push
+  155  git push --set-upstream origin task/AM-2471-molly-onboarding
+  156  git branch origin
+  157  git switch origin
+  158  git fetch origin dev
+  159  git rebase origin/dev
+  160  git hist
+  161  code .
+  162  yarn release -p
+  163  git branch
+  164  git config --global -e
+  165  git config --loist
+  166  git config --list
+  167  git config --global core.editor "code"
+  168  git config --global --global -e
+  169  git config
+  170  git config -e
+  171  git config --list
+  172  git config --global -e
+  173  git config --global -e
+  174  git hist
+  175  git init
+  176  git config --global init.defaultBranch main
+  177  git init
+  178  git branch
+  179  git branch -a
+  180  git add .
+  181  git commit -m "first commit"
+  182  git hist
+  183  git config --global init.defaultBranch main
+  184  git branch -m main
+  185  git branch
+  186  git hist
+  187  sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  188  cd /Users/molly/Desktop/work 
+  189  ls
+  190  mkdir inflab-practice-task
+  191  cd inflab-practice-task
+  192  code .
+  193  node --version
+  194  nvm
+  195  node
+  196  nvm
+  197  nvm ls
+  198  nvm alias default 14.18.1
+  199  node --version
+  200  node
+  201  nvm use 14.18.1
+  202  node
+  203  cat ~/.nvm/current/bin/node
+  204  cd ~
+  205  cd /Users
+  206  ls
+  207  cd molly
+  208  ls
+  209  cd .nvm
+  210  cd version
+  211  cd versions
+  212  cd node
+  213  ls
+  214  cd ~
+  215  ls
+  216  cd pwd
+  217  pwd
+  218  node
+  219  node --version
+  220  cd ~/.quokka
+  221  vi .
+  222  ls
+  223  cd ..
+  224  vi ~/.quokka
+  225  cat ~/.quokka
+  226  vi ~/.quokka
+  227  cd /Users/molly/.nvm/versions/node/v14.18.1/bin/node
+  228  cd /Users/molly/.nvm/versions/node/v14.18.1/bin
+  229  ls
+  230  cd ..
+  231  vi ~/.quokka
+  232  cd ~
+  233  pwd
+  234  cd desktop
+  235  ls
+  236  cd private\ work
+  237  ls
+  238  cd test
+  239  ls
+  240  cd ..
+  241  ls
+  242  cd ..
+  243  ls
+  244  cd workd
+  245  cd work
+  246  ls
+  247  cd inflab
+  248  cd ..
+  249  cd inflab-practice-task
+  250  npm install -g yarn
+  251  npm init -y
+  252  npm install eslint
+  253  npx eslint --init
+  254  git init
+  255  ls
+  256  git add .
+  257  git commit -m "env: Setup eslint"
+  258  git reset HEAD~1
+  259  npm install -D jest jest-config-context given2 
+  260  npm install -D jest jest-plugin-context given2 
+  261  npm install -D @testing-library/jest-dom
+  262  git add .
+  263  git commit -m "env: Setup jest"
+  264  git hist
+  265  cd ..
+  266  ls
+  267  cd inflab
+  268  ls
+  269  cd and-man
+  270  ls
+  271  cd ant-man
+  272  code .
+  273  git hist
+  274  git sfetch origin dev
+  275  git fetch origin dev
+  276  git rebase origin/dev
+  277  git hist
+  278  git switch -c feat/molly
+  279  git switch dev
+  280  git swith FrontendOnboarding
+  281  git switch FrontendOnboarding
+  282  git switch -c feat/molly
+  283  git branch -D feat/molly
+  284  git switch -c feat/molly
+  285  yarn
+  286  yarn dev
+  287  docker ps
+  288  clear
+  289  yarn dev
+  290  node --version
+  291  nvm use lts/erbium
+  292  yarn dev
+  293  node --version
+  294  yarn dev
+  295  ls
+  296  git hist
+  297  cd ..
+  298  ls
+  299  cd ..
+  300  ls
+  301  cd inflab-practice-task
+  302  code .
+  303  npm install fxjs
+  304  npm install -D @types/jest
+  305  npm install @testing-library/dom
+  306  npm install jsdom
+  307  vi ~/.quokka
+  308  cd desktop
+  309  cd work
+  310  ls
+  311  cd inflab
+  312  ls
+  313  cd ant-man
+  314  git switch feat/hongsi/task/AM-2364-blog-detail-event
+  315  git branch -a
+  316  git fetch origin
+  317  git fetch origin feat/hongsi/task/AM-2364-blog-detail-event
+  318  git switch cd ..
+  319  ls
+  320  cd ..
+  321  ls
+  322  cd ..
+  323  ls
+  324  git clone https://github.com/inflearn/ant-man.git
+  325  ls
+  326  cd inflab
+  327  cd ..
+  328  cd inflab
+  329  ls
+  330  code .
+  331  cd ant-man
+  332  code .
+  333  git checkout eaf7106
+  334  git switch task/AM-2138-blog-detail
+  335  code .
+  336  git hist
+  337  git switch feat/molly
+  338  ls
+  339  code .
+  340  code /
+  341  code .
+  342  nvm install v16
+  343  cd ~/.zshrc
+  344  vi ~/.zshrc
+  345  source ~/.zshrc
+  346  nvm install v16
+  347  nvm alias default v16
+  348  node --version
+  349  nvm use
+  350  node --version
+  351  yarn dev
+  352  git switch -c feat/molly/task/blog-list
+  353  git switch feat/molly/task/blog-list
+  354  git switch -c feat/molly/task/blog-list
+  355  cd desktop
+  356  ls
+  357  cd work
+  358  ls
+  359  cd inflab
+  360  ls
+  361  cd ant-man
+  362  code .
+  363  git switch dev
+  364  yarn
+  365  yarn dev
+  366  git switch -c task/AM-2476-update-signup-button
+  367  git add .
+  368  git commit
+  369  git hist
+  370  git push origin task/AM-2476-update-signup-button
+  371  git switch feat/molly
+  372  git switch -c ddd
+  373  git switch -c feat/molly
+  374  git switch feat/molly
+  375  git bracnh -D ddd
+  376  git branch -D ddd
+  377  git switch -c /feat/molly/task/blog-list
+  378  git switch -c feat/molly/task/blog-list
+  379  git switch -c feat/molly/task/AM-2473-blog-list
+  380  git switch FrontOnboarding
+  381  git switch FrontendOnboarding
+  382  git switch -c feat/AM-2472-molly
+  383  git switch -c feat/molly/task/AM-2473-blog-list
+  384  git bracnh -d feat/molly
+  385  git branch -d feat/molly
+  386  git switch -c feat/molly/task/AM-2473-blog-list
+  387  yarn
+  388  yarn dev
+  389  node --version
+  390  yarn
+  391  yarn dev
+  392  code .
+  393  git stash
+  394  git add .
+  395  git stash
+  396  git switch task/AM-2476-update-signup-button
+  397  yarn dev
+  398  git switch dev
+  399  yarn dev
+  400  git switch task/AM-2476-update-signup-button
+  401  git add .
+  402  git commit -m "fix: 다른 곳에서 사용되는 css 및 값 복구"
+  403  git add .
+  404  git commit -m "fix: css값을 block -> flex로 변경" -m "초기값이 flex로 되어있어 block이 아닌 flex로 변경"
+  405  git push origin task/AM-2476-update-signup-button
+  406  cd ..
+  407  ls
+  408  cd ..
+  409  ls
+  410  cd inflab
+  411  cd ..
+  412  cd inflab-practice-task
+  413  code .
+  414  cd ..
+  415  ls
+  416  cd inflab
+  417  ls
+  418  cd ant-man
+  419  code .
+  420  git add .
+  421  git commit -m "fix: 크로스브라우징을 위해 colum-gap 제거" -m "에버그린 브라우저가 아닌 safari 브라우저 고려"
+  422  git push origin task/AM-2476-update-signup-button
+  423  cd /Users/molly/Desktop/private\ work 
+  424  ls
+  425  cd /Users/molly/Desktop/work 
+  426  ls
+  427  cd inflab-practice-task
+  428  code .
+  429  cd /Users/molly/Desktop/work 
+  430  ls
+  431  cd inflab-practice-task/
+  432  ls
+  433  code .
+  434  cd /Users/molly/Desktop/work 
+  435  ls
+  436  cd ant-man
+  437  ls
+  438  code .
+  439  git branch
+  440  cd //
+  441  cd ..
+  442  cd desktop
+  443  ls
+  444  cd ~
+  445  cd desktop
+  446  ls
+  447  cd private\ work
+  448  ls
+  449  cd ..
+  450  cd work
+  451  ls
+  452  cd ant-man
+  453  git bracnh
+  454  git branch
+  455  cd ..
+  456  cd inflab
+  457  git branch
+  458  ls
+  459  cd ant-man
+  460  code .
+  461  git switch feat/molly/task/AM-2473-blog-list
+  462  yarn dev
+  463  yarn
+  464  yarn dev
+  465  git add .
+  466  git commit -m "new: 블로그 페이지 환경 셋팅"
+  467  git hist
+  468  git add .
+  469  git commit -m "up: 블로그리스트 마크업 구현"
+  470  git add .
+  471  git commit --amend
+  472  yarn dev
+  473  cd desktop
+  474  ls
+  475  cd work
+  476  ls
+  477  cd ..
+  478  ls
+  479  cd work
+  480  ls
+  481  cd ..
+  482  cd private\ work
+  483  ls
+  484  cd blog-css
+  485  code .
+  486  npm init -y
+  487  npm install scss
+  488  npm install sass
+  489  npm run scss
+  490  npm run sass
+  491  yarwn dev
+  492  yarn dev
+  493  cd ..
+  494  ls
+  495  cd ..
+  496  ls
+  497  cd private\ work
+  498  ls
+  499  cd ..
+  500  ls
+  501  cd work
+  502  ls
+  503  cd inflab
+  504  ls
+  505  cd ant-man
+  506  git switch master
+  507  git switch dev
+  508  code .
+  509  cd //
+  510  cd ..
+  511  cd ~
+  512  cd desktop
+  513  ls
+  514  cd work
+  515  ls
+  516  cd ant-man
+  517  code .
+  518  git fetch origin dev
+  519  git rebase origin dev
+  520  git hist
+  521  yarn release -p
+  522  yarn release
+  523  yarn
+  524  yarn release -p
+  525  \ndev 브랜치로 전환합니다\ngit checkout dev\nSwitched to branch 'dev'\nYour branch is up to date with 'origin/dev'.\n\nrelease/v5.37.42 브랜치를 삭제합니다.\ngit branch -d release/v5.37.42\nDeleted branch release/v5.37.42 (was 16be2c61b).\n\n진짜 안녕! 🖖ㅎ
+  526  git hist
+  527  uest #4208 from inflearn/release/v5.37.28 {{h
+  528  oori}}
+  529  clear
+  530  githist
+  531  git hist
+  532  cd ..
+  533  ls
+  534  cd ant-man
+  535  git fetch origin
+  536  git rebase origin dev
+  537  cd /Users/molly/Desktop/private\ work 
+  538  cd /Users/molly/Desktop/work 
+  539  ls
+  540  cd inflab
+  541  cd ant-man
+  542  code .
+  543  cd ..
+  544  cd ant-man
+  545  code .
+  546  git fetch origin dev
+  547  git rebase origin dev
+  548  git hist
+  549  yarn dev
+  550  yarn
+  551  yarn dev
+  552  yarn upgrad
+  553  yarn upgrade
+  554  yarn dev
+  555  yarn
+  556  node --version
+  557  yarn
+  558  yarn dev
+  559  npx browserslist@latest --update-db
+  560  yarn dev
+  561  cd ..
+  562  ls
+  563  git clone https://github.com/inflearn/ant-man.git
+  564  cd ant-man
+  565  yarn
+  566  node --version
+  567  yarn
+  568  yarn dev
+  569  cd /Users/molly/Desktop/ant-man 
+  570  node --version
+  571  yarn dev
+  572  yarn
+  573  yarn dev
+  574  ps -f
+  575  docker ps
+  576  yarn dev
+  577  yarn upgrade
+  578  npx browserslist@latest --update-db
+  579  Why you should do it regularly:
+  580  https://github.com/browserslist/browserslist\#browsers-data-updating
+  581  Browserslist: caniuse-lite is outdated. Please run the following command: `yarn upgrade`
+  582  code .
+  583  yarn dev
+  584  code /Users/molly/Desktop/ant-man 
+  585  ls
+  586  node -v
+  587  yarn dev
+  588  cat ~/.aws/credentials
+  589  yarn dev
+  590  git switch -c task/AM-2485-fix-login-login-button
+  591  git add .
+  592  git commit
+  593  git push origin task/AM-2485-fix-login-login-button
+  594  git fetch origin dev
+  595  git rebase origin dev
+  596  git hist
+  597  git fetch origin dev
+  598  git rebase origin dev
+  599  git hist
+  600  git rebase origin/dev
+  601  git release -p
+  602  yarn release -p
+  603  yarn dev
+  604  cd desktop/download
+  605  cd desktop/downloads
+  606  cd desktop
+  607  ls
+  608  cd ..
+  609  cd Downloads
+  610  open .
+  611  code inflearn-frontend-test
+  612  yarn
+  613  npm install -g yarn
+  614  yarn
+  615  npm run dev
+  616  npm run test
+  617  yarn test
+  618  npx jest
+  619  yarn start
+  620  cd public
+  621  npm install
+  622  npm run build
+  623  npx run start
+  624  npx webpack
+  625  yarn start -p 5501
+  626  yarn dev
+  627  git commit --amend
+  628  git commit -m "ref: lib -> fixtures로 파일명 변경"
+  629  git commit -m "up: blog가 없을 경우 pagination이 랜더링되지 않게 조건문 추가"
+  630  git ad d.
+  631  git add .
+  632  git commit -m "style: blogs 페이지 css작성"
+  633  git branch -m "feat/molly/task/AM-2490-markup-css"
+  634  git push origin feat/molly/task/AM-2490-markup-css
+  635  git add .
+  636  git commit -m "fix: 개행문 추가"
+  637  git push origin feat/molly/task/AM-2490-markup-css
+  638  git add .
+  639  git commit -m "fix: 코드 indent 수정"
+  640  git push origin feat/molly/task/AM-2490-markup-css
+  641  ls
+  642  cd dekstop
+  643  cd desktop
+  644  git clone https://github.com/inflearn/recruitment-frontend.git
+  645  code .
+  646  cd recruitment-frontend
+  647  code .
+  648  yarn
+  649  yarn publish:components
+  650  yarn dev:b2b
+  651  ls
+  652  cd pria
+  653  cd private\ work
+  654  ls
+  655  mkdir mobx-tutorial
+  656  cd mobx-tutorial
+  657  code .
+  658  yarn --init
+  659  yarn
+  660  yarn add mobx
+  661  cd /Users/molly/Desktop/work 
+  662  ls
+  663  cd ant-man
+  664  cd infalb
+  665  cd inflab
+  666  cd ..
+  667  cd inflab
+  668  ls
+  669  cd ant-man
+  670  code .
+  671  yarn dev
+  672  git add .
+  673  git commit -m "fix: 색상값을 디자인 시스템 변수로 변경"
+  674  git add .
+  675  git commit -m "fix: attribute 사이 공백 추가"
+  676  git add .
+  677  git commit -m "ref: grid를 이용한 레이아웃 구성"
+  678  git add .
+  679  git commit -m "ref: 불필요한 주석 제거"
+  680  git commit --amend
+  681  git add .
+  682  git commit -m "fix: 다른 타입을 위한 방어코드 작성" -m "totalCount가 querystring으로 들어올 경우 문자열이 들어올 수 있어 parseInt로 10진수 숫자로 변경"
+  683  git push origin feat/molly/task/AM-2490-markup-css
+  684  git add .
+  685  git commit -m "ref: 마크업 수정" -m "불필요한 section 제거, frontend-onboarding-molly 페이지를 하나의 section안에 위치하게 수정"
+  686  git push origin feat/molly/task/AM-2490-markup-css
+  687  git rebase -i
+  688  git hist
+  689  git rebase -i HEAD~8
+  690  git hist
+  691  git rebase HEAD~12
+  692  git rebase -i HEAD~12
+  693  git rebase --abort
+  694  git rebase -i HEAD~12
+  695  git rebase -i HEAD~13
+  696  git rebase --abort
+  697  git hist
+  698  git rebase -i HEAD~13
+  699  git rebase --abort
+  700  git rebase -i HEAD~13
+  701  git add .
+  702  git rebase --continue
+  703  git add .
+  704  git rebase --continue
+  705  git add .
+  706  git rebase --continue
+  707  git add .
+  708  git rebase --continue
+  709  git hist
+  710  git diff
+  711  git diff HEAD
+  712  git diff HEAD~1
+  713  git diff HEAD~2
+  714  git log --oneline
+  715  git log --diff
+  716  git log diff
+  717  git diff HEAD~3
+  718  git hist
+  719  git diff 98680de1f
+  720  git log -p -2
+  721  git log -p
+  722  git rebase -i HEAD~11
+  723  git hist
+  724  git rebase -i HEAD~11
+  725  git hist
+  726  git rebase -i HEAD~4
+  727  git log -p
+  728  git hist
+  729  git rebase -i
+  730  git rebase -i HEAD~4
+  731  git reset HEAD~1
+  732  git hist
+  733  git add .
+  734  git commit -m "style: 스타일 추가"
+  735  git hist
+  736  git rebase --continue
+  737  git hist
+  738  git rebase -i HEAD~4
+  739  git rebase --abort
+  740  git rebase -i HEAD~4
+  741  git hist
+  742  git log -p
+  743  git push origin feat/molly/task/AM-2490-markup-css
+  744  git push origin feat/molly/task/AM-2490-markup-css -f
+  745  git rebase -i HEAD~4
+  746  git rebase --abort
+  747  git rebase -i HEAD~4
+  748  git rebase --abort
+  749  cd ..
+  750  npx create-react-app
+  751  npx create-react-app .
+  752  npx create-react-app recruitment-backend
+  753  ls
+  754  cd recruitment-backend
+  755  cd ..
+  756  mv recruitment-backend todo
+  757  ls
+  758  cd todo
+  759  code .
+  760  yarn 
+  761  yarn dev
+  762  yarn start
+  763  git add .
+  764  git commit -m "env: 프로젝트 초기 환경 셋팅"
+  765  yarn test
+  766  git commit --amend
+  767  git add .
+  768  git commit --amend
+  769  yarn add @inflab/eslint-config-recruitment
+  770  yarn add @inflab/eslint-config-recruitment -D
+  771  git commit --amend
+  772  npx eslint --init
+  773  yarn
+  774  git add .
+  775  git commit -m "env: eslint 추가"
+  776  git add .
+  777  git commit --amend
+  778  yarn add given2 jest-plugin-context
+  779  yarn test
+  780  git add .
+  781  git commit -m 
+  782  git commit -m "env: test 셋팅"
+  783  yarn add mobx mobx-react
+  784  yarn add react-router-dom
+  785  yarn remove react-router-dom
+  786  yarn remove mobx mobx-react
+  787  yarn add react-router-dom
+  788  yarn start
+  789  yarn remove react-router-dom
+  790  yarn add react-router-dom@^5.3.0
+  791  yarn start
+  792  git add .
+  793  git commit -m "env: router 셋팅"
+  794  yarn add mobx@^6.3.5 mobx-react@^7.2.1
+  795  yarn test
+  796  yarn remove react-router-dom
+  797  yarn add react-router-dom@^5.2.0
+  798  yarn test
+  799  yarn react-router-dom
+  800  yarn remove react-router-dom
+  801  yarn add react-router-dom@^5.3.0
+  802  yarn test
+  803  yarn start
+  804  git commit -m "up: 라우터 테스트코드 작성"
+  805  cd ..
+  806  ls
+  807  cd ant-man
+  808  code .
+  809  yarn dev
+  810  git add .
+  811  git commit -m "fix: 마크업 수정"
+  812  git rebase -i HEAD~4
+  813  git hist
+  814  git log -p
+  815  git push origin feat/molly/task/AM-2490-markup-css -f
+  816  yarn dev
+  817  cd /Users/molly/Desktop/ant-man 
+  818  git fetch origin dev
+  819  git rebase origin/dev
+  820  code .
+  821  yarn dev
+  822  yarn start
+  823  yarn add @testing-library/react-hooks
+  824  yarn add @testing-library/react-hooks -D
+  825  yarn test
+  826  git commit -m "test: todo page 테스트 코드 변경"
+  827  git commit -m "chore: mobx, mobx-react 추가"
+  828  git commit -m 
+  829  git commit -m "env: mobx, context 셋팅"
+  830  git commit -m 
+  831  git commit -m "test: useStore 테스트 코드 작성"
+  832  git commit --amend
+  833  cd /Users/molly/Desktop/work/inflab 
+  834  ls
+  835  cd ant-man
+  836  code .
+  837  git switch -c dev
+  838  git switch FrontendOnboarding
+  839  git switch -c feat/molly/AM-2472
+  840  \n➜  inflab cd ant-man\ncode Now using node v12.22.7 (npm v6.14.15)\n➜  ant-man git:(feat/molly/task/AM-2490-markup-css) code .\n➜  ant-man git:(feat/molly/task/AM-2490-markup-css) git switch -c dev\nfatal: A branch named 'dev' already exists.\n➜  ant-man git:(feat/molly/task/AM-2490-markup-css) git switch FrontendOnboardi\nng\nSwitched to branch 'FrontendOnboarding'\nYour branch is up to date with 'origin/FrontendOnboarding'.\n➜  ant-man git:(FrontendOnboarding) git switch -c feat/molly/AM-2472\nSwitched to a new branch 'feat/molly/AM-2472'\n➜  ant-man git:(feat/molly/AM-2472\n\n\n
+  841  git push origin feat/molly/AM-2472
+  842  git fetch origin feat/molly/AM-2472
+  843  git rebase origin/feat/molly/AM-2472
+  844  code .
+  845  git hist
+  846  git switch -c /feat/molly/task/AM-2474-search
+  847  git switch -c feat/molly/task/AM-2474-search
+  848  yarn
+  849  yarn dev
+  850  git switch dev
+  851  git stash
+  852  git switch dev
+  853  yarn
+  854  yarn de
+  855  yarn dev
+  856  git fetch origin dev
+  857  git rebase origin/dev
+  858  yarn dev
+  859  yarn build
+  860  docker run --rm -d -p 6379:6379 redis
+  861  docker ps
+  862  docker run --rm -d -p 6379:6379 redis
+  863  docker ps
+  864  IMAGE     COMMAND                  CREATED         STATUS         PORTS                    NAMES\n1ad28a9bf4c6   redis     "docker-entrypoint.s…"   5 seconds ago   Up 5 seconds   0.0.0.0:6379->6379/tcp   cool_cerf\n➜  ~brew install redis
+  865  brew install redis
+  866  yarn build
+  867  yarn dev
+  868  redis-server
+  869  yarn dev
+  870  yarn
+  871  yarn build
+  872  yarn dev
+  873  git branch
+  874  git switch feat/molly/task/AM-2474-search
+  875  git stash pop
+  876  yarn dev
+  877  git add .
+  878  git commit -m "wip"
+  879  git hist
+  880  git add .
+  881  git commit -m "wup"
+  882  git commit --amend "wip"
+  883  git commit --amend -m "wip"
+  884  cd /Users/molly/Downloads/inflearn-frontend-test\ 3 
+  885  ls
+  886  code .
+  887  yarn
+  888  yarn dev
+  889  yarn serve
+  890  yarn start
+  891  ls
+  892  open -na "Webstorm.app"
+  893  vi /usr/local/bin/webstorm
+  894  webstorm
+  895  chmod webstorm
+  896  sudo webstorm
+  897  webstorm
+  898  chmod 777 /usr/local/bin/webstorm
+  899  webstorm
+  900  webstorm .
+  901  cd desktop
+  902  ls
+  903  cd work
+  904  ls
+  905  cd inflab
+  906  cd ant-man
+  907  webstorm .
+  908  yarn dev
+  909  git hist
+  910  git commit
+  911  yarn dev
+  912  redis-server
+  913  yarn dev
+  914  npm install -g eslint
+  915  yarn dev
+  916  Y
+  917  git add .
+  918  git status -s
+  919  git reset HEAD
+  920  git status -s
+  921  code .
+  922  Y
+  923  git switch dev
+  924  git fetch origin dev
+  925  git rebase origin/dev
+  926  git switch -c task/AM-2504-typeform
+  927  git hist
+  928  yarn
+  929  yarb
+  930  yarn
+  931  yarn dev
+  932  git commit
+  933  yarn dev
+  934  git commit
+  935  git add .
+  936  git commit --amend
+  937  git brame inflearn/pages/payments/$order_id/render.js
+  938  git blame src/inflearn/pages/payments/$order_id/render.js
+  939  /Users/molly/Desktop/work/inflab/ant-man/inflearn/pages/payments/$order_id/render.js
+  940  git blame /Users/molly/Desktop/work/inflab/ant-man/inflearn/pages/payments/$order_id/render.js
+  941  git blame ./inflearn/pages/payments/$order_id/render.js
+  942  git blame .
+  943  git blame src/inflearn/pages/payments/$order_id/render.js
+  944  git blame /inflearn/pages/payments/$order_id/render.js
+  945  git blame inflearn/pages/payments/$order_id/render.js
+  946  git blame ./inflearn/pages/payments/$order_id/render.js
+  947  git blame polyfill.js
+  948  git blame ./inflearn/service.js
+  949  git blame ./inflearn/service
+  950  git blame ./inflearn/app.b.js
+  951  git blame ./inflearn/pages/payments/$order_id/render.js
+  952  git blame ./inflearn/pages/_/event.js
+  953  git blame ./inflearn/pages/payments/$order_id
+  954  git blame ./inflearn/pages/payments/$order_id/css.scss
+  955  git blame ./inflearn/pages/payments/$order_id/tmpl.js
+  956  git blame ./inflearn/pages/payments/$order_id/event.js
+  957  git blame ./inflearn/pages/payments/$order_id/css.scss
+  958  /Users/molly/Desktop/work/inflab/ant-man/inflearn/pages/payments/$order_id/render.js
+  959  git blame /Users/molly/Desktop/work/inflab/ant-man/inflearn/pages/payments/$order_id/render.js
+  960  git blame inflearn/pages/_/event.js
+  961  git log inflearn/pages/_/event.js
+  962  git log --follow -- ./inflearn/pages/payment/$order_id/render.js
+  963  git log ./inflearn/pages
+  964  git log ./inflearn/pages/payment
+  965  git log ./inflearn/pages/payments
+  966  git log ./inflearn/pages/payments/render.js
+  967  git log ./inflearn/pages/payments/$order_id
+  968  git log ./inflearn/pages/payments/$order_id --after="2020-12-20" --until="2020-12-21"
+  969  git log --after="2020-12-20" --until="2020-12-21"
+  970  git log --after="2020-12-20" --until="2020-12-21" /inflearn/pages/payments/$order_id
+  971  git log --after="2020-12-20" --until="2020-12-21" -p /inflearn/pages/payments/$order_id
+  972  git log --since="\n\n\n
+  973  g
+  974  git blame ./webpack.config.dev.js
+  975  git blame ./inflearn/pages/_/render.js
+  976  git blame ./inflearn/pages/_/event.js
+  977  git blame ./inflearn/pages/payments/$order_id/render.js
+  978  git blame ./inflearn/pages/payments/\$order_id/render.js
+  979  git blame ./inflearn/pages/payments/$order_id/render.jsç
+  980  git blame ./inflearn/pages/payments/$order_id/render.g | jsç
+  981  git blame ./inflearn/pages/payments/\$order_id/render.js | grep 'jjoo' 
+  982  git blame ./inflearn/pages/payments/\$order_id/render.js | grep 'joo' 
+  983  git blame ./inflearn/pages/payments/\$order_id/render.js 
+  984  git blame ./inflearn/pages/payments/\$order_id/render.js | cat
+  985  git blame ./inflearn/pages/payments/\$order_id/render.js | cat |\n grep 'joo'
+  986  git blame ./inflearn/pages/payments/\$order_id/render.js | cat | grep 'oo'
+  987  git log --author 'joo'
+  988  git log --author 'joo' ./inflearn/pages/payments/\$order_id/render.js
+  989  git diff e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+  990  git diff -h
+  991  git diff e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+  992  git diff -h
+  993  git diff --name-only e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+  994  git diff --name-only e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846 | cat | render.js
+  995  git diff --name-only e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846 | cat | grep render.js
+  996  git diff --name-only e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846 | cat 
+  997  git diff --name-only e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846 | cat | grep render.js
+  998  git log e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+  999  git log -p e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1000  git show e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1001  git log ./inflearn/pages/payments/
+ 1002  git log ./inflearn/pages/payments/\$order_id/render.js
+ 1003  git log ./inflearn/pages/payments/\$order_id/render.js --author="jooo"
+ 1004  git log --author='jooo' ./inflearn/pages/payments/\$order_id/render.js
+ 1005  git log --author="jooo" ./inflearn/pages/payments/\$order_id/render.js
+ 1006  git log --author="jooo" ./inflearn/pages/payments/\$order_id
+ 1007  git log --author="joo" ./inflearn/pages/payments/\$order_id/render.js
+ 1008  git log --author="jooo" ./inflearn/pages/payments/\$order_id
+ 1009  git log --author="joo" ./inflearn/pages/payments/\$order_id/render.js
+ 1010  git show e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1011  cd desktop
+ 1012  cd work
+ 1013  ls
+ 1014  cd inflab
+ 1015  ls
+ 1016  cd ant-man
+ 1017  ls
+ 1018  git log --author="joo" ./inflearn/pages/payment/\$order_id/render.js
+ 1019  git log --author="joo" ./inflearn/pages/payments/\$order_id/render.js
+ 1020  git show e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1021  clear
+ 1022  \n+  .event_not_yet{\n+    height: calc(100vh - #{$header-size-desktop});\n+    display: flex;\n+    align-items: center;\n+    justify-content: center;\n+  }\n:...skipping...\ncommit e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1023  git clear
+ 1024  clear
+ 1025  git show \n+  .event_not_yet{\n+    height: calc(100vh - #{$header-size-desktop});\n+    display: flex;\n+    align-items: center;\n+    justify-content: center;\n+  }\n:...skipping...\ncommit e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1026  git show e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1027  clear
+ 1028  git show e5ba7b45d2707dcc2f12fb69d0b20b5edee4c846
+ 1029  cd /Users/molly/Desktop/recruitment-frontend 
+ 1030  git fetch origin main
+ 1031  git rebase origin/main
+ 1032  code .
+ 1033  cd ..
+ 1034  git clone https://github.com/inflearn/recruitment-backend.git
+ 1035  cd recruitment-backend
+ 1036  code .
+ 1037  docker-compose up
+ 1038  yarn start b2b
+ 1039  yarn
+ 1040  node --version
+ 1041  yarn
+ 1042  yarn start
+ 1043  yarn start b2b
+ 1044  yarn dev:b2b
+ 1045  git commit -m "up: 로그인 하지 않아도 thakyou-202112 페이지에 접속할 수 있게 변경"
+ 1046  git add .
+ 1047  git commit
+ 1048  git add .
+ 1049  git commit
+ 1050  git rebase HEAD~4
+ 1051  git rebase -i HEAD~4
+ 1052  git rebase -i HEAD~6
+ 1053  git rebase -i HEAD~5
+ 1054  git rebase --abort
+ 1055  git rebase -i HEAD~6
+ 1056  git rebase --abort
+ 1057  git hist
+ 1058  git fetch origin dev
+ 1059  git rebase origin/dev
+ 1060  git hist
+ 1061  git rebase  -i HEAD~4
+ 1062  git rebase -i HEAD~5
+ 1063  git rebase --abort
+ 1064  git rebase -i HEAD~5
+ 1065  git hist
+ 1066  cd desktop
+ 1067  cd private\ work
+ 1068  ls
+ 1069  cd test
+ 1070  code .
+ 1071  npm install jest @types/jest
+ 1072  npm init -y && npm install jest @types/jest
+ 1073  npm install typedi
+ 1074  npm install typedi reflect-metadata
+ 1075  npm install typescript
+ 1076  tsc --init
+ 1077  npx tsc --init
+ 1078  git hist
+ 1079  git rebase origin dev
+ 1080  git fetch origin dev
+ 1081  git rebase --abort
+ 1082  git switch task/AM-2504-typeform
+ 1083  git rebase origin/dev
+ 1084  git hist
+ 1085  git push origin task/AM-2504-typeform
+ 1086  code /Users/molly/Desktop/recruitment-frontend && code /Users/molly/Desktop/recruitment-backend 
+ 1087  yarn start
+ 1088  yarn start b2b
+ 1089  yarn dev:b2b
+ 1090  docker-compose up
+ 1091  yarn start b2b
+ 1092  yarn start:local-dev-b2b
+ 1093  sudo lsof -i 7000
+ 1094  redis-server
+ 1095  kill -9 55849
+ 1096  sudo lsof -i 
+ 1097  sudo lsof -i 6379
+ 1098  sudo lsof -i :6379
+ 1099  kill -9 57986
+ 1100  kill -9 53266
+ 1101  sudo lsof -i :6379
+ 1102  docker-compose up
+ 1103  ytarn start:local-dev-b2b
+ 1104  yarn start:local-dev-b2b
+ 1105  docker-compose up
+ 1106  yarn start:local-b2b
+ 1107  clear
+ 1108  docker-compose up -d
+ 1109  yarn start:local-b2b
+ 1110  yarn start admin
+ 1111  yarn dev:admin
+ 1112  yarn start:local-admin
+ 1113  redis-server
+ 1114  docker run --rm -d -p 6379:6379 redis
+ 1115  docker run --rm -d -p 6380:6380 redis
+ 1116  yarn start
+ 1117  yarn dev
+ 1118  git add .
+ 1119  git commit -m "fix: "
+ 1120  git rebase -i HEAD~5
+ 1121  git hist
+ 1122  git add .
+ 1123  git commit -m "fix"
+ 1124  git rebase -i HEAD~5
+ 1125  git hist
+ 1126  git push origin task/AM-2504-typeform -f
+ 1127  git commit -m "fix"
+ 1128  git rebase -i HEAD~5
+ 1129  git add .
+ 1130  git commit -m "fix"
+ 1131  git rebase -i HEAD~5
+ 1132  git rebase --edit-todo
+ 1133  git rebase --abort
+ 1134  git rebase -i HEAD~5
+ 1135  햣 ㅗㅑㄴㅅ
+ 1136  git hist
+ 1137  git add .
+ 1138  git commit -m "fix: 이벤트 참여하기 버튼 시작 날짜 변경"
+ 1139  git push origin task/AM-2504-typeform -f
+ 1140  code /Users/molly/Desktop/ant-man 
+ 1141  cd /Users/molly/Desktop/work 
+ 1142  ls
+ 1143  cd inflab
+ 1144  ls
+ 1145  cd ant-man
+ 1146  code .
+ 1147  yarn start
+ 1148  yarn dev
+ 1149  yarn start:local-b2b
+ 1150  yarn dev:b2b
+ 1151  git switch -c task/REC-703-company-information
+ 1152  git add .
+ 1153  git commit
+ 1154  git reset HEAD~1
+ 1155  ls
+ 1156  git add .
+ 1157  git commit
+ 1158  git add .
+ 1159  git commit
+ 1160  git hist
+ 1161  yarn story:component
+ 1162  yarn story:components
+ 1163  git add .
+ 1164  git commit
+ 1165  git fetch origin main
+ 1166  git rebase origin/main
+ 1167  yarn dev:b2b
+ 1168  git push origin task/REC-703-company-information
+ 1169  git rebase -i HEAD~4
+ 1170  git hist
+ 1171  git push origin task/REC-703-company-information -f
+ 1172  git hist
+ 1173  git rebase -i HEAD~5
+ 1174  git rebase --abort
+ 1175  git hist
+ 1176  git rebase -i 
+ 1177  git rebase -i HEAD~5
+ 1178  git hist
+ 1179  git push origin task/REC-703-company-information
+ 1180  git push origin task/REC-703-company-information -f
+ 1181  git hist
+ 1182  git add .
+ 1183  git commit
+ 1184  git add .
+ 1185  git commit
+ 1186  git add .
+ 1187  git commit --amend
+ 1188  git hist
+ 1189  git log
+ 1190  git push origin task/REC-703-company-information
+ 1191  git hist
+ 1192  git rebase origin main
+ 1193  git switch task/REC-703-company-information
+ 1194  git fetch origin main
+ 1195  git rebase origin/main
+ 1196  git hist
+ 1197  git push origin task/REC-703-company-information
+ 1198  git push origin task/REC-703-company-information -f
+ 1199  git fetch origin main
+ 1200  git rebase origin/main
+ 1201  git hist
+ 1202  git push origin task/REC-703-company-information -f
+ 1203  git switch main
+ 1204  git fetch origin main
+ 1205  git rebase origin/main
+ 1206  git hist
+ 1207  git switch -c task/REC-720-company-information
+ 1208  git add .
+ 1209  git commit -m "up: 문구 수정"
+ 1210  git commit --amend
+ 1211  git add .
+ 1212  git commit
+ 1213  git hist
+ 1214  cd /Users/molly/Desktop/recruitment-frontend 
+ 1215  ls
+ 1216  cat package.json
+ 1217  yarn start dev:admin
+ 1218  yarn dev:admin
+ 1219  git hist
+ 1220  git fetch origin main
+ 1221  git rebase origin/main
+ 1222  git hist
+ 1223  git push origin task/REC-720
+ 1224  git push origin task/REC-720-company-information
+ 1225  git hist
+ 1226  git switch main
+ 1227  git rebase origin main
+ 1228  git fetch origin main
+ 1229  git rebase origin/main
+ 1230  git hist
+ 1231  cd desktop
+ 1232  ls
+ 1233  cd recruitment-frontend
+ 1234  webstorm .
+ 1235  yarn dev:b2b
+ 1236  yarn start:admin
+ 1237  yarn dev:admin
+ 1238  git switch -c task/REC-723-position-detail
+ 1239  git add .
+ 1240  git commit -m "style: 띠배너 폰트 사이즈 변경"
+ 1241  git add .
+ 1242  git commit -m "style: 띠배너border radius 적용"
+ 1243  git show HEAD~1
+ 1244  git show HEAD
+ 1245  git hist
+ 1246  git rebase origin dev
+ 1247  git rebase origin main
+ 1248  git fetch origin main
+ 1249  git rebase origin/main
+ 1250  git hist
+ 1251  git fetch origin main
+ 1252  git rebase origin/main
+ 1253  git switch task/REC-723-position-detail
+ 1254  git rebase origin main
+ 1255  git fetch origin main
+ 1256  git switch task/REC-723-position-detail
+ 1257  git fetch origin main
+ 1258  git rebase origin/main
+ 1259  git hist
+ 1260  git push origin task/REC-723-position-detail
+ 1261  git add .
+ 1262  git commit -m "style: 포지션 목록페이지 title 색상 변경"
+ 1263  git hist
+ 1264  git fetch origin main
+ 1265  git rebase origin/main
+ 1266  git hist
+ 1267  git push origin task/REC-723-position-detail
+ 1268  git hist
+ 1269  git switch main
+ 1270  git fetch origin main
+ 1271  git rebase origin/main
+ 1272  git hist
+ 1273  git add .
+ 1274  yarn start:b2b
+ 1275  yarn dev:b2b
+ 1276  git add .
+ 1277  git commit -m 
+ 1278  git commit -m "style: 포지션 목록 호버시 커서 모양 변경"
+ 1279  yarn start:admin
+ 1280  yarn dev:admin
+ 1281  git hist
+ 1282  git switch -c task/REC-724-position-list
+ 1283  git hist
+ 1284  cd /Users/molly/Desktop/work/inflab 
+ 1285  ls
+ 1286  cd ant-man
+ 1287  code .
+ 1288  yarn dev
+ 1289  git add .
+ 1290  git commit -m "fix: 모바일에서 스크롤로 내릴 수 있게 수정" -m "html에 overflow:hidden이 걸려져 있어서 height가 부족한 상황에서 짤리는 현상 발생."
+ 1291  git fetch origin dev
+ 1292  git rebase origin/dev
+ 1293  git hist
+ 1294  git push origin task/AM-2504-typeform -f
+ 1295  git hist
+ 1296  git switch main
+ 1297  git switch dev
+ 1298  git fetch origin dev
+ 1299  git rebase origin/dev
+ 1300  cd /Users/molly/Desktop/work 
+ 1301  ls
+ 1302  cd inflabe
+ 1303  cd inflab
+ 1304  ls
+ 1305  cd ant-man
+ 1306  code .
+ 1307  git hist
+ 1308  ory: inflabe\n➜  work cd inflab\n➜  inflab ls\nant-man  todo     todo.zip\n➜  inflab cd ant-man\ncode Now using node v12.22.7 (npm v6.14.15)\n➜  ant-man git:(dev) code .\n➜  ant-man git:(dev)\n\n\n\n\nory: inflabe\n➜  work cd inflab\n➜  inflab ls\nant-man  todo     todo.zip\n➜  inflab cd ant-man\ncode Now using node v12.22.7 (npm v6.14.15)\n➜  ant-man git:(dev) code .\n➜  ant-man git:(dev) ory: inflabe\n➜  work cd inflab\n➜  inflab ls\nant-man  todo     todo.zip\n➜  inflab cd ant-man\ncode Now using node v12.22.7 (npm v6.14.15)
+ 1309  code /Users/molly/Desktop/recruitment-frontend && code /Users/molly/Desktop/recruitment-backend 
+ 1310  yarn start:local-admin
+ 1311  yarn start:local-b2b
+ 1312  yarn dev:b2b
+ 1313  yarn dev:admin
+ 1314  yarn story:components
+ 1315  git hist
+ 1316  git add .
+ 1317  git commit
+ 1318  git add .
+ 1319  git commit
+ 1320  yarn publish:components
+ 1321  yarn story:components
+ 1322  yarn dev:b2b
+ 1323  yarn publish:components
+ 1324  git add .
+ 1325  git commit -m "style: 버튼탭, 라인탭 호버/포커스시 색상 변경"
+ 1326  git hist
+ 1327  git fetch origin main
+ 1328  git rebase origin/main
+ 1329  git hist
+ 1330  git push origin task/REC-724-position-list
+ 1331  git switch main
+ 1332  git fetch origin main
+ 1333  git rebase origin/main
+ 1334  git hist
+ 1335  yarn start admin
+ 1336  yarn start:local-admin
+ 1337  git add .
+ 1338  git commit
+ 1339  git add .
+ 1340  git commit
+ 1341  git add .
+ 1342  git commit
+ 1343  git switch -c "task/REC-736-position-list"
+ 1344  git hist
+ 1345  git log
+ 1346  git push origin task/REC-736-position-list
+ 1347  git fetch origin main
+ 1348  git rebase origin/main
+ 1349  git hist
+ 1350  git push origin task/REC-736-position-list -f
+ 1351  git hist
+ 1352  git switch dev
+ 1353  git switch main
+ 1354  git rebase origin/main
+ 1355  git hist
+ 1356  git fetch origin main
+ 1357  git rebase origin/main
+ 1358  git hist
+ 1359  git switch -c task/REC-738-position-preview
+ 1360  yarn story:components
+ 1361  yarn publish:components
+ 1362  yarn dev:b2b
+ 1363  yarn publish:components
+ 1364  yarn dev:b2b
+ 1365  git add .
+ 1366  git comiit -m 
+ 1367  git commit
+ 1368  yarn publish:components
+ 1369  git add .
+ 1370  git commit
+ 1371  yarn publish:components
+ 1372  git commit
+ 1373  git add .
+ 1374  git commit
+ 1375  yarn publish:components
+ 1376  git commit
+ 1377  git add .
+ 1378  git commit
+ 1379  git fetch origin main
+ 1380  git rebase origin/main
+ 1381  git hist
+ 1382  yarn dev:b2b
+ 1383  git push origin task/REC-738-position-preview
+ 1384  git hist
+ 1385  git log
+ 1386  git hist
+ 1387  git switch main
+ 1388  git rebase origin/main
+ 1389  webstorm /Users/molly/Desktop/recruitment-frontend 
+ 1390  yarn publish:components
+ 1391  git add .
+ 1392  git commit -m "style: floating info 보더 수정"
+ 1393  git commit --amend
+ 1394  git hist
+ 1395  yarn publish:components
+ 1396  git add .
+ 1397  git commit -m "style: floating info에서 요소간 간격 수정"
+ 1398  yarn publish:components
+ 1399  git add .
+ 1400  git commit -m "style: floating info 패딩 수정"
+ 1401  git hist
+ 1402  git switch -c task/REC-745-position-preview
+ 1403  git hist
+ 1404  git fetch origin main
+ 1405  git rebase origin/main
+ 1406  git hist
+ 1407  yarn dev:b2b
+ 1408  git push origin task/REC-745-position-preview
+ 1409  git hist
+ 1410  git switch main
+ 1411  git fetch origin main
+ 1412  git rebase origin/main
+ 1413  git hist
+ 1414  cd desktop
+ 1415  ls
+ 1416  cd private\ work
+ 1417  ls
+ 1418  mkdir my-app && cd my-app\nnpm init -y\nnpm install react react-dom next
+ 1419  code .
+ 1420  npm run dev
+ 1421  npm install -D jest @types/jest @testing-library/jest-dom @testing-library/react
+ 1422  npx jest
+ 1423  npm install eslint
+ 1424  npx eslint --init
+ 1425  npm install -D given2 jest-plugin-context
+ 1426  npx jest --watchAll --verbose
+ 1427  git add .
+ 1428  git a dd .
+ 1429  git add .
+ 1430  git reset HEAD
+ 1431  git ad d.
+ 1432  git add .
+ 1433  git status
+ 1434  git commit -m "env: Setup tutorial environment"
+ 1435  git hist
+ 1436  git remte add origin https://github.com/dngwoodo/architecture-tutorial.git
+ 1437  git remote add origin https://github.com/dngwoodo/architecture-tutorial.git
+ 1438  git push origin main
+ 1439  ls
+ 1440  git hist
+ 1441  cd ..
+ 1442  ls
+ 1443  cd my-app
+ 1444  ls
+ 1445  git hist
+ 1446  rm -rf .git
+ 1447  cd ..
+ 1448  rm -rf .git
+ 1449  cd my-app
+ 1450  git add .
+ 1451  git init
+ 1452  git add .
+ 1453  git commit -m "env: Setup evironment"
+ 1454  git remote add origin https://github.com/dngwoodo/architecture-tutorial.git
+ 1455  git push origin main
+ 1456  git push origin main -f
+ 1457  npm install -D next-page-tester
+ 1458  npx jest --watchAll
+ 1459  cd ..
+ 1460  ls
+ 1461  cd /Users/molly/Desktop/work 
+ 1462  ls
+ 1463  cd inflab
+ 1464  ls
+ 1465  cd ant-man
+ 1466  ls
+ 1467  git fetch origin dev
+ 1468  git rebase origin/dev
+ 1469  git hist
+ 1470  code .
+ 1471  git add .
+ 1472  git commit -m "fix: 사랑주간 테스트용 기간으로 변경"
+ 1473  yarn deply
+ 1474  yarn deploy
+ 1475  git hist
+ 1476  git reset HEAD~1
+ 1477  git hist
+ 1478  webstorm /Users/molly/Desktop/private\ work 
+ 1479  cd /Users/molly/Desktop/private\ work 
+ 1480  lls
+ 1481  ls
+ 1482  cd my-app
+ 1483  webstorm .
+ 1484  npx run dev
+ 1485  npm run dev
+ 1486  git add .
+ 1487  git commit -m "fix: 오타수정"
+ 1488  git add .
+ 1489  git hist
+ 1490  yarn dev:b2b
+ 1491  git add .
+ 1492  git commit
+ 1493  git hist
+ 1494  git switch -c task/REC-750-position-detail
+ 1495  git fetch origin main
+ 1496  git rebase origin/main
+ 1497  git hist
+ 1498  git push origin task/REC-750-position-detail
+ 1499  git hist
+ 1500  git switch main
+ 1501  git fetch origin main
+ 1502  git rebase origin/main
+ 1503  git switch main
+ 1504  git fetch origin main
+ 1505  git rebase origin main
+ 1506  git hist
+ 1507  yarn dev:b2b
+ 1508  git hist
+ 1509  yarn
+ 1510  git fetchh origin dev
+ 1511  git fetch origin dev
+ 1512  git rebase origin/dev
+ 1513  git hist
+ 1514  yarn
+ 1515  yarn start
+ 1516  yarn dev
+ 1517  cd desktop
+ 1518  git clone https://github.com/machadop1407/Snackbar-Toast-Notifications-React.git
+ 1519  ls
+ 1520  cd Snackbar-Toast-Notifications-React
+ 1521  npm i
+ 1522  npm run dev
+ 1523  npm run start
+ 1524  cd ..
+ 1525  git clone https://github.com/dngwoodo/notistack.git
+ 1526  ls
+ 1527  cd notistack
+ 1528  npm i
+ 1529  npm run dev
+ 1530  code .
+ 1531  git hist
+ 1532  git fetch origin dev
+ 1533  git rebase origin/dev
+ 1534  git hist
+ 1535  git add .
+ 1536  git commit -m "up: 이벤트 문구 수정 및 스타일 수정"
+ 1537  git hist
+ 1538  git reset HEAD~1
+ 1539  git hist
+ 1540  git switch -c task/AM-2511-change-style
+ 1541  git hist
+ 1542  git add .
+ 1543  git commit
+ 1544  git show HEAD
+ 1545  git reset HEAD~1
+ 1546  git status -s
+ 1547  git commit -m "up: 이벤트 문구 및 스타일 수정"
+ 1548  git show HEAD
+ 1549  git push origin task/AM-2511-change-style
+ 1550  yarn deploy
+ 1551  git add .
+ 1552  git commit -m "fix: 테스트용으로 날짜 수정"
+ 1553  yarn deploy
+ 1554  git hist
+ 1555  node --version
+ 1556  git hist
+ 1557  git switch dev
+ 1558  git switch task/AM-2511-change-style
+ 1559  git fetch origin dev
+ 1560  git rebase origin dev
+ 1561  git hist
+ 1562  git switch task/AM-2511-change-style
+ 1563  ls
+ 1564  git hist
+ 1565  git fetch origin dev
+ 1566  git rebase origin/dev
+ 1567  git hist
+ 1568  git push origin task/AM-2511-change-style -f
+ 1569  git reset 
+ 1570  git reset HEAD~1
+ 1571  git hist
+ 1572  git push origin task/AM-2511-change-style -f
+ 1573  git status -s
+ 1574  git hist
+ 1575  git status -s
+ 1576  git reset HEAD
+ 1577  ls
+ 1578  git status -s
+ 1579  git hist
+ 1580  git fetch origin main
+ 1581  git fetch origin dev
+ 1582  git rebase origin dev
+ 1583  git switch task/AM-2511-change-style
+ 1584  git hist
+ 1585  git switch main
+ 1586  git switch dev
+ 1587  git fetch origin main
+ 1588  git fetch origin dev
+ 1589  git rebase origin/dev
+ 1590  git hist
+ 1591  git release -p
+ 1592  yarn release -p
+ 1593  cd ..
+ 1594  ls
+ 1595  cd private\ work
+ 1596  cd ..
+ 1597  cd work
+ 1598  ls
+ 1599  gem
+ 1600  gem "jekyll-theme-so-simple"
+ 1601  webstorm /Users/molly/Desktop/recruitment-frontend 
+ 1602  git fetch origin main
+ 1603  git rebase origin main
+ 1604  yarn dev:b2b
+ 1605  yarn dev:admin
+ 1606  webstorm /Users/molly/Desktop/recruitment-frontend 
+ 1607  cd desktop
+ 1608  webstorm recruitment-backend
+ 1609  cat recruitment-backend/package.json
+ 1610  yarn start:local-b2b
+ 1611  cd recruitment-backend
+ 1612  yarn start:local-b2b
+ 1613  cd desktop
+ 1614  ls
+ 1615  cd recruitment-backend
+ 1616  ls
+ 1617  yarn start:local-admin
+ 1618  yarn start:local-b2b
+ 1619  cd desktop
+ 1620  cd recruitment-backend
+ 1621  cd ..
+ 1622  cd recruitment-frontend
+ 1623  ls
+ 1624  yarn start:b2b
+ 1625  cat package.json
+ 1626  yarn dev:b2b
+ 1627  yarn dev:admin
+ 1628  cd desktop
+ 1629  cd recruitment-frontend
+ 1630  yarn dev:admin
+ 1631  git add .
+ 1632  git status -s
+ 1633  git commit -m "style: 포지션목록 띠배너 - 모바일에서 border-radius 제거"
+ 1634  git switch -c task/REC-758-b2b-design-qa
+ 1635  git add .
+ 1636  git commit -m "fix: 오타수정"
+ 1637  git add .
+ 1638  git commit -m "style: 포지션 미리보기 - 회사명 상단 margin 추가"
+ 1639  git show HEAD
+ 1640  git hist
+ 1641  git add .
+ 1642  git commit -m "style: 포지션 미리보기 - 이미지와 플로팅 정렬"
+ 1643  git status -s
+ 1644  git commit --amend
+ 1645  git add .
+ 1646  git commit -m "style: 포지션 미리보기 - 플로팅 타이틀 아래 간격 수정"
+ 1647  git show HEAD
+ 1648  git show HEAD~1
+ 1649  git show HEAD
+ 1650  git show HEAD~1
+ 1651  git show HEAD~2
+ 1652  git show HEAD~1
+ 1653  git hist
+ 1654  git add .
+ 1655  git hist
+ 1656  git rebase -i HEAD~3
+ 1657  git add .
+ 1658  git status -s
+ 1659  git rebase -i HEAD~3
+ 1660  git hist
+ 1661  git reset HEAD~1
+ 1662  git hist
+ 1663  git add .
+ 1664  git commit -m "style: 포지션 미리보기 - 이미지와 플로팅 정렬"
+ 1665  git hist
+ 1666  git rebase --continue
+ 1667  git hist
+ 1668  git show HEAD~2
+ 1669  git show HEAD~1
+ 1670  git hist
+ 1671  git fetch origin main
+ 1672  git rebase origin/main
+ 1673  git hist
+ 1674  git push origin task/REC-758-b2b-design-qa
+ 1675  git hist
+ 1676  git switch main
+ 1677  git fetch origin main
+ 1678  git rebase origin/main
+ 1679  git add .
+ 1680  git switch -c task/REC-769-b2b-design-qa
+ 1681  git hist
+ 1682  git log
+ 1683  git hist
+ 1684  git push origin task/REC-769-b2b-design-qa
+ 1685  git fetch origin main
+ 1686  git rebase origin/main
+ 1687  git hist
+ 1688  git push origin task/REC-769-b2b-design-qa -f
+ 1689  git add .
+ 1690  git commit -m "style: 모달 버튼 size 값 변경" -m "confirmModal, company-users에서 사용되는 모달 버튼 사이즈 변경"
+ 1691  git hist
+ 1692  git fetch origin main
+ 1693  git rebase origin/main
+ 1694  git hist
+ 1695  git push origin task/REC-769-b2b-design-qa
+ 1696  git hist
+ 1697  git switch main
+ 1698  git fetch origin main
+ 1699  git rebase origin main
+ 1700  yarn dev:b2b
+ 1701  cd desktop
+ 1702  ls
+ 1703  cd work 
+ 1704  ls
+ 1705  cd inflab
+ 1706  ls
+ 1707  webstorm ant-man
+ 1708  git fetch origin dev
+ 1709  git rebase origin/dev
+ 1710  yarn 
+ 1711  yarn dev
+ 1712  git hist
+ 1713  yarn release -p
+ 1714  git fetch origin dev
+ 1715  git rebase origin/dev
+ 1716  git release -p
+ 1717  yarn release -p
+ 1718  yarn start:local-admin
+ 1719  git fetch origin master
+ 1720  git rebase origin/master
+ 1721  git stash
+ 1722  git rebase origin/master
+ 1723  git hist
+ 1724  code .
+ 1725  docker-compose up
+ 1726  docker-compose up -d
+ 1727  yarn start:local-admin
+ 1728  yarn
+ 1729  node --version
+ 1730  yarn
+ 1731  yarn start:local-admin
+ 1732  ls
+ 1733  cd ..
+ 1734  ls
+ 1735  cd ..
+ 1736  ls
+ 1737  cd recruitment-backend
+ 1738  ls
+ 1739  cat package.json
+ 1740  yarn seed:dummy
+ 1741  yarn
+ 1742  cat package.json
+ 1743  yarn start:local-b2b
+ 1744  brew install httpie
+ 1745  httpie
+ 1746  http POST additionalComments: "21312432"\naddressBuildingName: ""\naddressDetail: "오늘은 안되요1httpie"\naddressMain: "경기 성남시 분당구 판교역로 4"\naddressRegion: "SEOUL"\nbasicQualifications: "123"\nbenefits: "5467"\ncompanyId: 51\ncompanyUserId: 301\ndescription: "123"\nendedAt: ""\nfreeQuestions: []\nisAlwaysHiring: true\njobGroup: "GAME_DEVELOPER"\njobLevel: "INTERN"\njobSkillKeywords: []\njobs: ["GAME_CLIENT_DEVELOPER", "GAME_SERVER_DEVELOPER"]\njoinReward: "213"\nminimumSalary: "123"\npreferredQualifications: "345234"\nresponsibilities: "213"\nsalaryType: "KNOWN_SALARY"\nstartedAt: "2021-12-16"\nstatus: "READY"\ntitle: "213"\nzipCode: "13536"
+ 1747  http POST http://localhost:3000/api/v1/position/register {\n    "status": "READY",\n    "companyId": 51,\n    "companyUserId": 301,\n    "jobGroup": "GAME_DEVELOPER",\n    "jobs": [\n        "GAME_CLIENT_DEVELOPER",\n        "GAME_SERVER_DEVELOPER"\n    ],\n    "jobSkillKeywords": [],\n    "jobLevel": "INTERN",\n    "minimumSalary": "123",\n    "salaryType": "KNOWN_SALARY",\n    "isAlwaysHiring": true,\n    "startedAt": "2021-12-16",\n    "endedAt": "",\n    "addressRegion": "SEOUL",\n    "addressMain": "경기 성남시 분당구 판교역로 4",\n    "addressBuildingName": "",\n    "addressDetail": "오늘은 안되요1http POST additionalComments: "21312432"\naddressBuildingName: ""\naddressDetail: "오늘은 안되요1httpie"\naddressMain: "경기 성남시 분당구 판교역로 4"\naddressRegion: "SEOUL"\nbasicQualifications: "123"\nbenefits: "5467"\ncompanyId: 51\ncompanyUserId: 301\ndescription: "123"\nendedAt: ""\nfreeQuestions: []\nisAlwaysHiring: true\njobGroup: "GAME_DEVELOPER"\njobLevel: "INTERN"\njobSkillKeywords: []\njobs: ["GAME_CLIENT_DEVELOPER", "GAME_SERVER_DEVELOPER"]\njoinReward: "213"\nminimumSalary: "123"\npreferredQualifications: "345234"\nresponsibilities: "213"\nsalaryType: "KNOWN_SALARY"\nstartedAt: "2021-12-16"\nstatus: "READY"\ntitle: "213"\nzipCode: "13536"",\n    "zipCode": "13536",\n    "title": "213",\n    "description": "123",\n    "responsibilities": "213",\n    "basicQualifications": "123",\n    "preferredQualifications": "345234",\n    "benefits": "5467",\n    "additionalComments": "21312432",\n    "freeQuestions": [],\n    "joinReward": "213"\n}
+ 1748  git switch -c task/REC-774-b2b-design-qa
+ 1749  git add .
+ 1750  git status -s
+ 1751  git commit -m "style: 페이지네이션 간격 수정"
+ 1752  git add .
+ 1753  git commit -m "style: modal에서 p태그 마진 삭제"
+ 1754  git hist
+ 1755  git show diff HEAD~2
+ 1756  git show HEAD~2
+ 1757  git show HEAD~1
+ 1758  git show HEAD
+ 1759  git add .
+ 1760  git commit -m "style: size에 따른 버튼크기 지정" -m "border가 추가되면서 버튼크기가 달라질때를 방지"
+ 1761  git hist
+ 1762  git fetch origin main
+ 1763  git rebase origin/main
+ 1764  git push origin task/REC-774-b2b-design-qa
+ 1765  cd desktop
+ 1766  ls
+ 1767  cd work
+ 1768  ls
+ 1769  cd inflab
+ 1770  ls
+ 1771  cd ant-man
+ 1772  ls
+ 1773  yarn dev
+ 1774  git add .
+ 1775  git commit -m "style: 모바일경우 typeform 사용성 이슈 처리"
+ 1776  git show HEAD
+ 1777  git switch -c task/AM-2525-typeform-mobile-issue
+ 1778  git fetch origin de
+ 1779  git fetch origin deb
+ 1780  git fetch origin dev
+ 1781  git rebase origin/dev
+ 1782  git push origin task/AM-2525-typeform-mobile-issue
+ 1783  Git hist
+ 1784  git switch -c dev
+ 1785  git switch dev
+ 1786  git fetch origin/dev
+ 1787  git fetch origin dev
+ 1788  git rebase origin/dev
+ 1789  git add .
+ 1790  git commit -m "up: 이벤트기간이 아닐때 문구 수정"
+ 1791  git fetch origin dev
+ 1792  git rebase origin/dev
+ 1793  git hist
+ 1794  git switch -c task/AM-2526-event-descripition
+ 1795  git push origin task/AM-2526-event-descripition
+ 1796  git switch dev
+ 1797  yarn release -p
+ 1798  git switch main
+ 1799  git fetch origin main
+ 1800  git rebase origin/main
+ 1801  cd /Users/molly/Desktop/recruitment-frontend
+ 1802  cd /Users/molly/Desktop/recruitment-frontend 
+ 1803  cd /Users/molly/Desktop/recruitment-backend 
+ 1804  cat package.json
+ 1805  yarn dev:b2b
+ 1806  yarn dev:admin
+ 1807  cat package.json
+ 1808  yarn start:local-admin
+ 1809  yarn start:local-b2b
+ 1810  git add .
+ 1811  git switch -c task/REC-798-b2b-design-qa
+ 1812  git add d.
+ 1813  git add .
+ 1814  git commit -m "style: 포지션 미리보기 글자 색상 변경"
+ 1815  git commit --amend
+ 1816  git add .
+ 1817  git commit --amend
+ 1818  git add .
+ 1819  git commit -m "style: 포지션 상세 섹션 패딩 수정"
+ 1820  git show HEAD
+ 1821  git hist
+ 1822  code .
+ 1823  git push origin task/REC-798-b2b-design-qa
+ 1824  git fetch origin task/REC-798-b2b-design-qa
+ 1825  git rebase origin task/REC-798-b2b-design-qa
+ 1826  git stash
+ 1827  git rebase origin task/REC-798-b2b-design-qa
+ 1828  git hist
+ 1829  git rebase origin/task/REC-798-b2b-design-qa
+ 1830  git hist
+ 1831  git reset HEAD~1
+ 1832  git stash
+ 1833  yarn dev:b2b
+ 1834  git add .
+ 1835  git hist
+ 1836  git drop stash
+ 1837  git stash drop
+ 1838  git hist
+ 1839  git push origin task/REC-798-b2b-design-qa -f
+ 1840  git fetch origin main
+ 1841  git rebase origin main
+ 1842  git hist
+ 1843  git switch task/REC-798-b2b-design-qa
+ 1844  git rebase origin/main
+ 1845  git hist
+ 1846  git push origin task/REC-798-b2b-design-qa -f
+ 1847  git hist
+ 1848  git switch main
+ 1849  git rebase task/REC-798-b2b-design-qa
+ 1850  git stash
+ 1851  git rebase task/REC-798-b2b-design-qa
+ 1852  git hist
+ 1853  git fetch origin main
+ 1854  git rebase origin/main
+ 1855  git hist
+ 1856  git switch -c task/REC-805-b2b-design-qa
+ 1857  git hist
+ 1858  git add .
+ 1859  git commit -m "style: default size 버튼일 경우 텍스트 중앙 위치 조정"
+ 1860  git hist
+ 1861  code .
+ 1862  git add .
+ 1863  code .
+ 1864  yarn start:local-admin
+ 1865  yarn start:local-b2b
+ 1866  yarn dev:b2b
+ 1867  yarn dev:admin
+ 1868  code .
+ 1869  git fetch origin master
+ 1870  git rebase origin/master
+ 1871  git stash
+ 1872  git rebase origin/master
+ 1873  git stash pop
+ 1874  yarn start:local-b2b
+ 1875  yarn dev:b2b
+ 1876  git push origin task/REC-805-b2b-design-qa -f
+ 1877  omz update
+ 1878  ls
+ 1879  cd Desktop
+ 1880  ls
+ 1881  cd private\ work
+ 1882  ls
+ 1883  git clone https://github.com/dngwoodo/functional-javascript-01.git
+ 1884  ls
+ 1885  cd functional-javascript-01
+ 1886  code .
+ 1887  cd desktop
+ 1888  ls
+ 1889  cd private\ work
+ 1890  ls
+ 1891  cd ..
+ 1892  cd work
+ 1893  ls
+ 1894  cd inflab
+ 1895  ls
+ 1896  cd ant-man
+ 1897  code .
+ 1898  git switch task/AM-2471-molly-onboarding
+ 1899  git hist
+ 1900  git log
+ 1901  git switch dev
+ 1902  git switch feat/molly/task/AM-2474-search
+ 1903  yarn dev
+ 1904  git log
+ 1905  git add .
+ 1906  git branch
+ 1907  git switch
+ 1908  git switch feat/molly/task/AM-2474-search
+ 1909  git add .
+ 1910  git commit -m "up: 기능 명세 및 구현 초기화"
+ 1911  yarn add -D @testing-library/jest-dom
+ 1912  yarn dev
+ 1913  git add .
+ 1914  git commit -m "up: 기본 search 기능 구현"
+ 1915  git commit --amend
+ 1916  webstorm /Users/molly/Desktop/work/inflab/ant-man 
+ 1917  git addd .
+ 1918  git add .
+ 1919  git commit --amend
+ 1920  git hist
+ 1921  yarn dev
+ 1922  git add .
+ 1923  git commit -m "docs: 명세 변경"
+ 1924  git add .
+ 1925  git commit --amend
+ 1926  git add .
+ 1927  git commit --amend
+ 1928  git add .
+ 1929  git commit -m "up: search시 url 변경"
+ 1930  webstorm /Users/molly/Desktop/work/inflab 
+ 1931  webstorm /Users/molly/Desktop/work/inflab/ant-man 
+ 1932  git hist
+ 1933  yarn dev
+ 1934  yarn build
+ 1935  yarn dev
+ 1936  code .
+ 1937  yarn dev
+ 1938  Last login: Sun Dec 26 15:27:42 on ttys002
+ 1939  docker run --rm -d -p 6379:6379 redis
+ 1940  docker ps
+ 1941  yarn dev
+ 1942  git commit
+ 1943  git hist
+ 1944  git add .
+ 1945  git commit
+ 1946  git add .
+ 1947  git commit
+ 1948  git add .
+ 1949  git commit
+ 1950  yarn dev
+ 1951  git add .
+ 1952  git commit
+ 1953  code /Users/molly/Downloads/inflearn-frontend-test-권재호 
+ 1954  git add .
+ 1955  git commit
+ 1956  git hist
+ 1957  git commit --amend
+ 1958  git add .
+ 1959  git commit --amend
+ 1960  git add .
+ 1961  git commit -m "style: 불필요한 주석 제거"
+ 1962  git hist
+ 1963  git add .
+ 1964  git commit -m "style: 코드 정렬 및 주석 제거"
+ 1965  git add .
+ 1966  git commit -m "style: 코드정렬"
+ 1967  git add .
+ 1968  git commit -m "style: 카테고리 input 길이 수정"
+ 1969  git commit -m "docs: 명세수정"
+ 1970  git hist
+ 1971  git push origin feat/molly/task/AM-2474-search
+ 1972  git add .
+ 1973  git commit
+ 1974  git add .
+ 1975  git commit --amend
+ 1976  yarn dev
+ 1977  git add .
+ 1978  git commit
+ 1979  git add .
+ 1980  git commit
+ 1981  git add .
+ 1982  git commit
+ 1983  git add .
+ 1984  git commit --amend
+ 1985  git add .
+ 1986  git commit -m "refactor: 리팩토링 및 페이지네이션 버그 수정"
+ 1987  git add .
+ 1988  git commit -m "style: 개행 추가"
+ 1989  git push origin feat/molly/task/AM-2474-search
+ 1990  cd desktop
+ 1991  ls
+ 1992  cd private\ work
+ 1993  ls
+ 1994  cd ..
+ 1995  cd downloads
+ 1996  ls
+ 1997  cd /Users/molly/Desktop/work 
+ 1998  ls
+ 1999  cd inflab
+ 2000  ls
+ 2001  cd todo
+ 2002  code .
+ 2003  cd ..
+ 2004  ls
+ 2005  cd ..
+ 2006  ls
+ 2007  cd /Users/molly/Desktop/private\ work 
+ 2008  ls
+ 2009  cd test
+ 2010  ls
+ 2011  cd nflab-practice-task\n➜  work cd ..\nl;%\n➜  Desktop ls\ndocument             recruitment-backend  work\nprivate work         recruitment-frontend\n➜  Desktop cd /Users/molly/Desktop/private\ work\n➜  private work ls\nblog-css                          my-app\nfunctional-javascript-01          react-redux-realworld-example-app\nmobx-tutorial                     test\n➜  private work cd test\n➜  test ls\nnode_modules      package.json      test.ts\npackage-lock.json test.test.ts      tsconfig.json\n➜  test cd ..
+ 2012  ls
+ 2013  cd ..
+ 2014  git clone https://github.com/dngwoodo/architecture-tutorial.git
+ 2015  ls
+ 2016  cd architecture-tutorial
+ 2017  code .
+ 2018  npm i
+ 2019  npm run dev
+ 2020  git switch -c gringrape
+ 2021  git add .
+ 2022  git commit -m "토론"
+ 2023  git push origin gringrape
+ 2024  git switch main
+ 2025  npx jest --watchAll
+ 2026  yarn dev
+ 2027  git add .
+ 2028  git commit -m "hook으로 변경"
+ 2029  cd /Users/molly/Desktop/work 
+ 2030  ls
+ 2031  cd inflab
+ 2032  ls
+ 2033  cd todo
+ 2034  code .
+ 2035  cd ..
+ 2036  cd /Users/molly/Desktop/private\ work 
+ 2037  ls
+ 2038  cd architecture-tutorial
+ 2039  code .
+ 2040  cd desktop
+ 2041  ls
+ 2042  cd private\ work
+ 2043  ls
+ 2044  git clone https://github.com/dngwoodo/todo-backend.git
+ 2045  code .
+ 2046  ls
+ 2047  cd todo-backend
+ 2048  code .
+ 2049  node app.js
+ 2050  npm i
+ 2051  node app.jhs
+ 2052  node app.js
+ 2053  ls
+ 2054  cd ..
+ 2055  ls
+ 2056  cd architecture-tutorial
+ 2057  code .
+ 2058  npm install --save-dev @testing-library/react-hooks
+ 2059  npx jest --watchAll --verbose
+ 2060  git stash
+ 2061  npx jest --watchAll --verbose
+ 2062  git pop
+ 2063  git stash pop
+ 2064  npx jest --watchAll
+ 2065  git add .
+ 2066  git commit -m "테스트 코드 리팩토링"
+ 2067  git add .
+ 2068  git commit -m "repository, service 구현"
+ 2069  git push origin main
+ 2070  code /Users/molly/Downloads/6.2-habit-tracker 
+ 2071  npm install
+ 2072  npm run start
+ 2073  npm run test
+ 2074  code /Users/molly/Downloads/6.2-habit-tracker
+ 2075  git init
+ 2076  git add .
+ 2077  git commit -m "habit presenter 생성"
+ 2078  git add .
+ 2079  git commit --amend
+ 2080  npm run start
+ 2081  git add .
+ 2082  git commit --amend
+ 2083  npm run test
+ 2084  git add .
+ 2085  git commit -m "habit_presenter 테스트 코드 작성"
+ 2086  git add .
+ 2087  git commit -m "habit_presenter 리팩토링"
+ 2088  git commit --amend
+ 2089  git add .
+ 2090  git commit -m "habit_presenter 테스트 코드 리팩토링" -m "테스트 해야 되는 곳에 집중하자."
+ 2091  git add .
+ 2092  git commit -m "오브젝트 불변성 테스트하기"
+ 2093  bon test -- --coverage\n: 1640780739:0;bon test -- --coverage
+ 2094  git add .
+ 2095  git commit -m "최대갯수 로직 추가"
+ 2096  npm run start
+ 2097  git add .
+ 2098  git commit --amend
+ 2099  ls
+ 2100  cd desktop
+ 2101  cd /Users/molly/Downloads/6.2-habit-tracker 
+ 2102  git hist
+ 2103  code .
+ 2104  git add .
+ 2105  git commit -m "docs 변경"
+ 2106  git remote add origin https://github.com/dngwoodo/dream-test-code.git
+ 2107  git push origin main
+ 2108  cd desktop
+ 2109  ls
+ 2110  cd private\ work
+ 2111  ls
+ 2112  code architecture-tutorial
+ 2113  code todo-backend
+ 2114  code .
+ 2115  npm run start
+ 2116  node app.js
+ 2117  npm run dev
+ 2118  node app.js
+ 2119  npm run test
+ 2120  npm test
+ 2121  npx jest --watchAll
+ 2122  git commit -m "service 구현 변경"
+ 2123  git add .
+ 2124  git commit -m "service 구현 변경"
+ 2125  git push origin main
+ 2126  cd ..
+ 2127  cd downloads
+ 2128  ls
+ 2129  cd ..
+ 2130  cd Downloads
+ 2131  ls
+ 2132  open .,
+ 2133  open l
+ 2134  open .
+ 2135  cd /Users/molly/Downloads/6.2-habit-tracker 
+ 2136  code .
+ 2137  code /Users/molly/Downloads/youtube-performance 
+ 2138  cd ..
+ 2139  open .
+ 2140  code /Users/molly/Downloads/card-maker-memo 
+ 2141  npm run test
+ 2142  git add .
+ 2143  git commit -m 
+ 2144  git commit -m "habitAddForm 테스트 코드 작성"
+ 2145  npm run test
+ 2146  git add .
+ 2147  git commit -m 
+ 2148  git commit -m "habitAddForm 테스트 코드 리팩토링"
+ 2149  npm install react-test-renderer
+ 2150  npm install -D react-test-renderer
+ 2151  npm i react-test-renderer
+ 2152  npm install -D react-test-renderer
+ 2153  npm i react-test-renderer@16.8.4
+ 2154  git add .
+ 2155  git commit -m "스냅샷 테스트 작성"
+ 2156  npm run test -- --coverage
+ 2157  npm run start
+ 2158  git add .
+ 2159  git commit -m "남은 컴포넌트 테스트 셋팅"
+ 2160  git add .
+ 2161  git commit -m "나머지 테스트 코드 작성"
+ 2162  git add .
+ 2163  git commit --amend
+ 2164  npm run test -- --u
+ 2165  git commit --amend
+ 2166  npm run test -- --u
+ 2167  git add.
+ 2168  git add .
+ 2169  git commit -m "나머지 컴포넌트 테스트 코드 리팩토링"
+ 2170  npm run test -- --u
+ 2171  npm run start
+ 2172  git add .
+ 2173  git commit -m "app 테스트 셋팅"
+ 2174  git reset HEAD~1
+ 2175  git commit -m "app 테스트 셋팅"
+ 2176  code /Users/molly/Downloads/8.8-habit-tracker 
+ 2177  npm run test -- --u
+ 2178  npm run test -- --coverage
+ 2179  git add .
+ 2180  git commit -m "app 테스트 코드 작성"
+ 2181  git push origin main
+ 2182  ls
+ 2183  cd desktop
+ 2184  ls
+ 2185  cd ..
+ 2186  cd downloads
+ 2187  ls
+ 2188  cd youtube-performance
+ 2189  code .
+ 2190  cd ..
+ 2191  cd card-maker-memo
+ 2192  code .
+ 2193  cd /Users/molly/Desktop/work 
+ 2194  ls
+ 2195  cd inflab
+ 2196  ls
+ 2197  cd ..
+ 2198  cd private\ work
+ 2199  ls
+ 2200  cd architecture-tutorial
+ 2201  code .
+ 2202  git commit -m "중간 회고 작성"
+ 2203  git add .
+ 2204  git commit -m "ref 사용해서 재할당 방지"
+ 2205  cd desktop
+ 2206  cd ..
+ 2207  cd Downloads
+ 2208  ls
+ 2209  cd 6.2-habit-tracker
+ 2210  code .
+ 2211  cd ..
+ 2212  cd youtube-performance
+ 2213  code .
+ 2214  npm run dev
+ 2215  cd ..
+ 2216  cd desktop
+ 2217  ls
+ 2218  cd private\ work
+ 2219  ls
+ 2220  cd todo-backend
+ 2221  node app.js
+ 2222  npx jest --watchAll
+ 2223  git stash
+ 2224  git switch -c presenter
+ 2225  git stash pop
+ 2226  npx jest --watchAll 
+ 2227  git add .
+ 2228  git commit -m "presenter 도입"
+ 2229  git switch main
+ 2230  git switch presenter
+ 2231  git stash
+ 2232  git switch presenter
+ 2233  git push origin presenter
+ 2234  git switch main
+ 2235  git stash pop
+ 2236  npm run dev
+ 2237  node app.js
+ 2238  npm run dev
+ 2239  npm run test
+ 2240  npx jest --watchAll
+ 2241  git add .
+ 2242  git commit -m "context 도입"
+ 2243  npx jest --watchAll
+ 2244  git add .
+ 2245  git commit -m "docs 작성"
+ 2246  git switch presenter
+ 2247  git add .
+ 2248  git commit -m "docs 작성"
+ 2249  git push origin presenter
+ 2250  git switch main
+ 2251  git push origin main
+ 2252  git add .
+ 2253  git commit -m "md파일 이동"
+ 2254  git push origin main
+ 2255  git reset HEAD~1
+ 2256  git add .
+ 2257  git commit -m "오타 수정"
+ 2258  git push origin main
+ 2259  git hist
+ 2260  git hist -f
+ 2261  git push -f
+ 2262  git switch presenter
+ 2263  git add .
+ 2264  git commit -m "오타 수정"
+ 2265  git push origin presenter -f
+ 2266  git add .
+ 2267  git commit -m "patch, delete 구현"
+ 2268  git push origin master
+ 2269  cd /Users/molly/Desktop/work 
+ 2270  ls
+ 2271  cd inflab
+ 2272  ls
+ 2273  cd /Users/molly/Desktop/private\ work 
+ 2274  ls
+ 2275  cd ..
+ 2276  cd ~
+ 2277  cd downloads
+ 2278  ls
+ 2279  cd HTTPie-2021.2.0.dmg 6.2-habit-tracker
+ 2280  ls
+ 2281  cd 6.2-habit-tracker
+ 2282  code .
+ 2283  npm install cypress --save-dev
+ 2284  npm run cypress
+ 2285  npm install --save-dev cypress @testing-library/cypress
+ 2286  npm run cypress
+ 2287  npm run start
+ 2288  git add .
+ 2289  git commit -m "cypress 환경 셋팅"
+ 2290  git commit -m "e2e 테스트 추가"
+ 2291  git add .
+ 2292  git commit -m "docs 추가"
+ 2293  git push origin main
+ 2294  git add .
+ 2295  git commit --amend
+ 2296  git push origin main -f
+ 2297  git add .
+ 2298  git commit --amend
+ 2299  git push origin main -f
+ 2300  git add .
+ 2301  git commit --amend
+ 2302  git push origin main -f
+ 2303  cd https://github.com/mmistakes/so-simple-theme.git
+ 2304  cd ..
+ 2305  ls
+ 2306  cd desktop
+ 2307  ls
+ 2308  cd work
+ 2309  ls
+ 2310  cad infal
+ 2311  cd inflab
+ 2312  mkdir blog
+ 2313  ls
+ 2314  cd blog
+ 2315  git clone https://github.com/mmistakes/so-simple-theme.git
+ 2316  ls
+ 2317  cd so-simple-theme
+ 2318  code .
+ 2319  git hist
+ 2320  ls
+ 2321  rm -rf
+ 2322  rm -rf .git
+ 2323  git init
+ 2324  git add ,.
+ 2325  git add .
+ 2326  git commit -m "env: so-simple-theme 적용"
+ 2327  git add .
+ 2328  git commit -m "env: url 변경"
+ 2329  jekyll serve
+ 2330  gem
+ 2331  bundle install
+ 2332  bundler install
+ 2333  bundle exec jekyll serve
+ 2334  git add .
+ 2335  git commit -m "chore: jekyll-theme-so-simple 설치"
+ 2336  git remot add origin https://github.com/dngwoodo/dngwoodo.github.io.git
+ 2337  git remote add origin https://github.com/dngwoodo/dngwoodo.github.io.git
+ 2338  git push origin main
+ 2339  git commit --allow-empty -m "rebuild"
+ 2340  git push origin main
+ 2341  git hist
+ 2342  git add .
+ 2343  git commit -m "fix: url 변경"
+ 2344  git push origin main
+ 2345  bundle exec jekyll build
+ 2346  bundle exec jekyll serve
+ 2347  git add .
+ 2348  git commit -m "fix: url 수정"
+ 2349  git push origin main
+ 2350  git add .
+ 2351  git commit -m "env: gemspec 추가"
+ 2352  git push origin main
+ 2353  gem --version
+ 2354  git add .
+ 2355  git commit -m "env: theme version 변경"
+ 2356  git push origin main
+ 2357  bundle install
+ 2358  bundle exec jekyll serve
+ 2359  /Users/molly/Desktop/private\ work 
+ 2360  cd /Users/molly/Desktop/work 
+ 2361  ls
+ 2362  cd inflab
+ 2363  ls
+ 2364  cd blog
+ 2365  ls
+ 2366  gem install jekyll bundler
+ 2367  ruby -v
+ 2368  gem -v
+ 2369  cd /Users/molly/Desktop/private\ work 
+ 2370  cd /Users/molly/Desktop/work 
+ 2371  ls
+ 2372  cd inflab
+ 2373  ls
+ 2374  cd blog
+ 2375  ls
+ 2376  cd so-simple-theme
+ 2377  code .
+ 2378  cd ..
+ 2379  ls
+ 2380  mkdir tutorial
+ 2381  cd tutoral
+ 2382  cd tutorial
+ 2383  bundle init
+ 2384  ls
+ 2385  code .
+ 2386  bundle
+ 2387  bundle install
+ 2388  jekyll serve
+ 2389  git init
+ 2390  git add .
+ 2391  git commit -m "first commit"
+ 2392  git remote add origin https://github.com/dngwoodo/dngwoodo.github.io.git
+ 2393  git pusho origin main
+ 2394  git push origin main
+ 2395  git push origin main -f
+ 2396  git add .
+ 2397  git commit -m "env: title 추가"
+ 2398  git push origin main
+ 2399  bundle install
+ 2400  bundle update
+ 2401  cd ..
+ 2402  ls
+ 2403  cd so-simple-theme
+ 2404  code .
+ 2405  bundle install
+ 2406  bundle exec jekyll serve
+ 2407  git add .
+ 2408  git commit -m "fix: 오타수정"
+ 2409  git push origin main
+ 2410  git push origin main -f
+ 2411  cd ..
+ 2412  ls
+ 2413  rm -rf so-simple-theme
+ 2414  git clone https://github.com/mmistakes/so-simple-theme.git
+ 2415  ㅣㄴ
+ 2416  ls
+ 2417  cd so-simple-theme
+ 2418  git push origin master
+ 2419  git push origin master -f
+ 2420  rm -rf .git
+ 2421  git init
+ 2422  git add .
+ 2423  git commit -m "first commit"
+ 2424  git push origin main -f
+ 2425  git remote add origin https://github.com/dngwoodo/dngwoodo.github.io.git
+ 2426  git push origin main
+ 2427  git push origin main -f
+ 2428  bundle install
+ 2429  bundle exec jekyll serve
+ 2430  git add .
+ 2431  git commit -m "second commit"
+ 2432  git push origin main -f
+ 2433  cd ..
+ 2434  ls
+ 2435  rm -rf tutorial
+ 2436  mkdir tutorial
+ 2437  ls
+ 2438  cd tutorial
+ 2439  code .
+ 2440  bundle init
+ 2441  jekyll serve
+ 2442  git add .
+ 2443  git init && git add . && git commit -m "first"
+ 2444  git push origin main
+ 2445  git remote add origin https://github.com/dngwoodo/dngwoodo.github.io.git
+ 2446  git push origin main
+ 2447  git push origin main -f
+ 2448  cd ..
+ 2449  ls
+ 2450  rm -rf so-simple-theme tutorial
+ 2451  ls
+ 2452  git clone https://github.com/mmistakes/so-simple-theme.git
+ 2453  cd so-simple-theme
+ 2454  rm -rf .git
+ 2455  git inint
+ 2456  git init
+ 2457  git add .
+ 2458  git commit -m "first commit"
+ 2459  code .
+ 2460  bundle
+ 2461  bundle exec jekyll serve
+ 2462  git add .
+ 2463  git commit -m "style: 불필요한 파일 삭제"
+ 2464  bundle exec jekyll serve
+ 2465  bundle exec jekyll build
+ 2466  git add .
+ 2467  git commit -m "test"
+ 2468  git push origin main -f
+ 2469  git remote add origin https://github.com/dngwoodo/dngwoodo.github.io.git
+ 2470  git push origin main
+ 2471  git push origin main -f
+ 2472  bundle update
+ 2473  bundle exec jekyll serve
+ 2474  git add .
+ 2475  git commit -m "test"
+ 2476  git push origin main 
+ 2477  cd /Users/molly/Desktop/recruitment-frontend 
+ 2478  git switch main
+ 2479  git fetch origin main
+ 2480  git rebase origin/main
+ 2481  git hist
+ 2482  git switch -c test
+ 2483  git push origin test
+ 2484  cd desktop
+ 2485  ls
+ 2486  cd pro
+ 2487  cd private\ work
+ 2488  ls
+ 2489  cd react-redux-realworld-example-app
+ 2490  cd /Users/molly/Desktop/recruitment-frontend 
+ 2491  git switch main
+ 2492  git branch -D test
+ 2493  git fetch origin main
+ 2494  git rebase origin/main
+ 2495  git hist
+ 2496  code .
+ 2497  git switch task/REC-849-position-detail-page
+ 2498  git switch -c task/REC-849-position-detail-page
+ 2499  yarn
+ 2500  yarn dev:b2b
+ 2501  cd /Users/molly/Desktop/recruitment-backend 
+ 2502  git fetch origin master
+ 2503  git rebase origin/master
+ 2504  git stash
+ 2505  git rebase origin/master
+ 2506  git stash pop
+ 2507  cat package.json
+ 2508  yarn start:local-b2b
+ 2509  yarn publish:component
+ 2510  yarn publish:components
+ 2511  yarn dev:b2b
+ 2512  yarn publish:components
+ 2513  yarn dev:b2c
+ 2514  cd /Users/molly/Desktop/recruitment-backend 
+ 2515  cat package.json
+ 2516  yarn start:local-b2
+ 2517  yarn start:local-b2c
+ 2518  code .
+ 2519  yarn dev:b2c
+ 2520  yarn dev:b2c
+ 2521  yarn start:local-b2c
+ 2522  yarn dev:b2c
+ 2523  yarn publish:components
+ 2524  git add .
+ 2525  git commit
+ 2526  git push origin task/REC-849-position-detail-page
+ 2527  yarn dev:b2b
+ 2528  yarn install
+ 2529  docker-compose up
+ 2530  yarn start:local-b2b
+ 2531  yarn start:local-admin
+ 2532  yarn dev:admin
+ 2533  yarn start:local-admin
+ 2534  cd /Users/molly/Desktop/private\ work 
+ 2535  ls
+ 2536  cd /Users/molly/Desktop/private\ work 
+ 2537  ls
+ 2538  cd ..
+ 2539  cd work
+ 2540  ls
+ 2541  cd inflab
+ 2542  ls
+ 2543  cd blog
+ 2544  ls
+ 2545  cd so-simple-theme
+ 2546  code .
+ 2547  cd /Users/molly/Desktop/recruitment-backend 
+ 2548  code .
+ 2549  cd /Users/molly/Desktop/work 
+ 2550  ls
+ 2551  cd inflab
+ 2552  ls
+ 2553  cd blog
+ 2554  ls
+ 2555  cd so-simple-theme
+ 2556  code .
+ 2557  code /Users/molly/Desktop/recruitment-backend 
+ 2558  cd /Users/molly/Desktop/recruitment-backend 
+ 2559  code .
+ 2560  cd /Users/molly/Desktop/recruitment-frontend 
+ 2561  code .
+ 2562  cd ..
+ 2563  cd /Users/molly/Desktop/recruitment-frontend 
+ 2564  ls
+ 2565  git switch main
+ 2566  git fetch origin main
+ 2567  git rebase origin/main
+ 2568  code .
+ 2569  yarn dev:b2b
+ 2570  cd ..
+ 2571  ls
+ 2572  cd /Users/molly/Desktop/recruitment-backend 
+ 2573  code .
+ 2574  git fetch origin main
+ 2575  git fetch origin master
+ 2576  git fetch origin/main
+ 2577  git rebase origin/main
+ 2578  git rebase origin/master
+ 2579  git hist
+ 2580  yarn start:local-b2b
+ 2581  yarn dev:b2b
+ 2582  yarn publish:components
+ 2583  cd ..
+ 2584  cd recruitment-frontend
+ 2585  code .
+ 2586  yarn publish:components
+ 2587  yarn dev:b2b
+ 2588  yarn publish:components
+ 2589  git stash
+ 2590  git switch -c task/REC-702-b2b-design-qa
+ 2591  git stash pop
+ 2592  git add .
+ 2593  git commit
+ 2594  git push origin task/REC-702-b2b-design-qa
+ 2595  yarn publish:components
+ 2596  git add .
+ 2597  git commit --amend
+ 2598  git branch -m "task/REC-858-b2b-design-qa"
+ 2599  git push origin task/REC-858-b2b-design-qa
+ 2600  yarn dev:b2b
+ 2601  brew install --cask maccy
+ 2602  cd /Users/molly/Desktop/work 
+ 2603  ls
+ 2604  cd inflab
+ 2605  ls
+ 2606  cd blog
+ 2607  ls
+ 2608  cd so-simple-theme
+ 2609  code .
+ 2610  bundle exec jekyll serve
+ 2611  bundle update
+ 2612  bundl
+ 2613  bundle
+ 2614  bundle exec jekyll serve
+ 2615  cd desktop
+ 2616  ls
+ 2617  cd work
+ 2618  ls
+ 2619  cd inflab
+ 2620  git clone https://github.com/inflearn/inflearn.github.io.git
+ 2621  ls
+ 2622  cd inflearn.github.io
+ 2623  code .
+ 2624  bundle
+ 2625  bundle install
+ 2626  gem install bundler:2.2.30\n: 1641257756:0;bundle exec jekyll serve
+ 2627  git commit -m "폰트 및 config 수정"
+ 2628  git commit -m "리드미 추ㅣ"
+ 2629  git commit --amend "리드미 추가"
+ 2630  git commit --amend -m "리드미 추가"
+ 2631  git commit -m "네비게이션 추가"
+ 2632  git commit -m "임시 글 작성"
+ 2633  git add .
+ 2634  git commit -m "font-style 이탤릭체 삭제"
+ 2635  git commit -m "font-size 수정"
+ 2636  git add .
+ 2637  git commit -m "이미지 추가"
+ 2638  git add .
+ 2639  git commit -m "이미지 넣는 법 문서 추ㅣ"
+ 2640  git commit --amend -m "이미지 넣는 법 문서추가"
+ 2641  cd /Users/molly/Desktop/recruitment-frontend 
+ 2642  code .
+ 2643  git add .
+ 2644  git commit -m "썸네일 예제 추가"
+ 2645  git push origin main
+ 2646  cd ..
+ 2647  ls
+ 2648  cd ..
+ 2649  ls
+ 2650  cd desktop
+ 2651  l;s
+ 2652  ls
+ 2653  cd work
+ 2654  ls
+ 2655  cd inflab
+ 2656  ls
+ 2657  cd blog
+ 2658  ls
+ 2659  cd /Users/molly/Desktop/recruitment-frontend 
+ 2660  code .
+ 2661  git switch main
+ 2662  git fetch origin main 
+ 2663  git rebase origin/main
+ 2664  git hist
+ 2665  git switch -c task/REC-863-design-qa
+ 2666  yarn dev:b2c
+ 2667  cd ~
+ 2668  ls
+ 2669  cd desktop
+ 2670  cd recruitment-backend
+ 2671  yarn start:local-b2b
+ 2672  yarn dev:b2b
+ 2673  git add .
+ 2674  git commit
+ 2675  git push origin task/REC-863-design-qa
+ 2676  cd /Users/molly/Desktop/work 
+ 2677  ls
+ 2678  cd inflab
+ 2679  ls
+ 2680  cd blog
+ 2681  ls
+ 2682  code .
+ 2683  rm -rf so-simple-theme
+ 2684  ls
+ 2685  npm install -g gatsby-cli
+ 2686  gatsby --version
+ 2687  gatsby --help
+ 2688  gatsby new
+ 2689  ls
+ 2690  cd tutorial
+ 2691  npm run develop
+ 2692  code .
+ 2693  git hist
+ 2694  git remote add origin https://github.com/dngwoodo/gatsby-tutorial.git
+ 2695  git push origin main
+ 2696  git push origin maini gp-pages -D
+ 2697  npm i gh-pages -D
+ 2698  npm run deploy
+ 2699  gatsby --help
+ 2700  gh-pages
+ 2701  git add .
+ 2702  git commit -m "test"
+ 2703  npm run deploy
+ 2704  git push origin main
+ 2705  git push origin main -f
+ 2706  npm run deploy
+ 2707  git add .
+ 2708  git commit -m "github pages action 추가"
+ 2709  git push origin main
+ 2710  git add .
+ 2711  git commit -m "test"
+ 2712  git push origin main
+ 2713  git add .
+ 2714  git commit -m "오타수정"
+ 2715  git push origin main
+ 2716  git add .
+ 2717  git commit -m "파일명 숮 ㅓㅇ"
+ 2718  git push origin main
+ 2719  git push origin main -f
+ 2720  git push origin main
+ 2721  git add .
+ 2722  git commit -m "오타 수정"
+ 2723  git push origin main
+ 2724  code .
+ 2725  git push origin main
+ 2726  git add .
+ 2727  git commit -m "오타수정"
+ 2728  git push origin main
+ 2729  git config user.name
+ 2730  git push origin main
+ 2731  git push origin main -f
+ 2732  $PATH
+ 2733  echo $PATH
+ 2734  $PATH
+ 2735  git push origin main -f
+ 2736  git add .
+ 2737  git commit -m ""
+ 2738  git commit -m "123"
+ 2739  git push origin main
+ 2740  git add .
+ 2741  git commit -m "234"
+ 2742  git push origin main
+ 2743  git remote -v
+ 2744  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
+ 2745  git remote set-url  https://hp_Fwcy7vxMouueyY8izCJeqzJq62MZ5f3GbOzh@github.com/dngwoodo/gatsby-tutorial.git
+ 2746  git remote set-url origin  https://hp_Fwcy7vxMouueyY8izCJeqzJq62MZ5f3GbOzh@github.com/dngwoodo/gatsby-tutorial.git
+ 2747  git push origin main
+ 2748  git remote set-url origin  https://hp_Fwcy7vxMouueyY8izCJeqzJq62MZ5f3GbOzh@github.com/dngwoodo/gatsby-tutorial.git
+ 2749  git push origin
+ 2750  git push origin main
+ 2751  git add .
+ 2752  git commit -m "asdasd"
+ 2753  git push origin main
+ 2754  git remote set-url origin https://github.com/dngwoodo/gatsby-tutorial.git/
+ 2755  git push origin main
+ 2756  git add .
+ 2757  git commit -m "12312312"
+ 2758  git push origin main
+ 2759  history
