@@ -27,9 +27,3 @@ jobs:
       - name: Build
         - run: npm ci
         - run: npm run build
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          repo_token: ${{ secrets.GH_TOKEN }}
-          publish_dir: ./public
